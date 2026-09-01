@@ -3,7 +3,5 @@
 ```c
 #include <stdio.h>
 
-int main() {
-  printf("Hello world!");
-}
+int main() { puts("Hello World!"); }
 ```
